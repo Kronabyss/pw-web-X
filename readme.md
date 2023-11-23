@@ -1,6 +1,6 @@
 ## Perfect World Web
 
-**Note from the original author:** This project is no longer supported, however I will still look at pull requests if you'd like to attempt a fix.
+ALL THE CREDIT GOES TO @tomirons for the base code of the Panel
 
 ### THIS BUILD HAS THE PAYPAL-IPN ISSUE FIXED
 
